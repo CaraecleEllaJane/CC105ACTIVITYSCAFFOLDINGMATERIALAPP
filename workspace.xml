@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="672bf2ca-7201-442b-98d0-a1ac5211f884" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ixR6rpw6eASioInth6DH3M2SFA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="672bf2ca-7201-442b-98d0-a1ac5211f884" name="Default Changelist" comment="" />
+      <created>1602847083552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602847083552</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="622" y="303" key="Github.ShareDialog" timestamp="1602847839921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="622" y="303" key="Github.ShareDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1602847839921" />
+    <state x="442" y="111" key="Github.UntrackedFilesDialog" timestamp="1602847859213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="111" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1602847859213" />
+    <state width="1340" height="195" key="GridCell.Tab.0.bottom" timestamp="1602847926206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1602847926206" />
+    <state width="1340" height="195" key="GridCell.Tab.0.center" timestamp="1602847926206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1602847926206" />
+    <state width="1340" height="195" key="GridCell.Tab.0.left" timestamp="1602847926206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1602847926206" />
+    <state width="1340" height="195" key="GridCell.Tab.0.right" timestamp="1602847926206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1602847926206" />
+    <state x="352" y="142" key="Vcs.Push.Dialog.v2" timestamp="1602847894236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="352" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1602847894236" />
+    <state x="172" y="132" width="1200" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602847482558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="172" y="132" width="1200" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1602847482558" />
+  </component>
+</project>
